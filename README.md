@@ -1,4 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello%20Hyunji%20World!&fontSize=90)
 " hi there, I'm Hyunji. I majored in Applied Statistics and am currently working in data analysis. This is where I record my growth.. 🌱 "
 
 
